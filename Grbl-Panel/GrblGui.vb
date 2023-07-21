@@ -707,4 +707,15 @@ Public Class GrblGui
         gcode.sendGCodeLine("G10 L2 " + Index + " " + sndr.Tag.ToString + sndr.Text)
     End Sub
 
+    Private Sub btnImportGrblSettings_Click(sender As Object, e As EventArgs) Handles btnImportGrblSettings.Click
+        TabControl1.Enabled = False 'Disable UI elements to prevent process interruptions
+        settings.ImportSettingsFromFile(SettingsImportProgressBar)
+        TabControl1.Enabled = True 'ReEnable UI elements after process completion
+    End Sub
+
+    Private Sub btnExportGrblSettings_Click(sender As Object, e As EventArgs) Handles btnExportGrblSettings.Click
+        TabControl1.Enabled = False 'Disable UI elements to prevent process interruptions
+        settings.ExportSettingsToFile(SettingsImportProgressBar)
+        TabControl1.Enabled = True 'ReEnable UI elements after process completion
+    End Sub
 End Class
