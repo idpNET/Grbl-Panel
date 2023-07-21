@@ -150,7 +150,7 @@
     <value>Options</value>
   </data>
   <data name="ToolsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 20</value>
+    <value>48, 20</value>
   </data>
   <data name="ToolsToolStripMenuItem.Text" xml:space="preserve">
     <value>Tools</value>
@@ -2880,7 +2880,7 @@
   <data name="btnFileStep.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        xAAADsQBlSsOGwAAADZJREFUSEvtzSEWACAMw9Dd/9JFoCETzPDyTUVFKsMMIAPIAPo4ULWv7p7c3wcM
+        wwAADsMBx2+oZAAAADZJREFUSEvtzSEWACAMw9Dd/9JFoCETzPDyTUVFKsMMIAPIAPo4ULWv7p7c3wcM
         IAPIABoOJAsureWLcFI45gAAAABJRU5ErkJggg==
 </value>
   </data>
@@ -3573,13 +3573,13 @@
     <value>3</value>
   </data>
   <data name="tbGrblCOM.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tbGrblCOM.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tbGrblCOM.Size" type="System.Drawing.Size, System.Drawing">
-    <value>154, 45</value>
+    <value>154, 42</value>
   </data>
   <data name="tbGrblCOM.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -3651,13 +3651,13 @@
     <value>1</value>
   </data>
   <data name="tbGrblIP.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tbGrblIP.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tbGrblIP.Size" type="System.Drawing.Size, System.Drawing">
-    <value>154, 45</value>
+    <value>154, 42</value>
   </data>
   <data name="tbGrblIP.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -4158,7 +4158,7 @@
     <value>True</value>
   </data>
   <data name="Label3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Arial Unicode MS, 24pt, style=Bold</value>
+    <value>Microsoft Sans Serif, 24pt, style=Bold</value>
   </data>
   <data name="Label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -4167,7 +4167,7 @@
     <value>7, 203</value>
   </data>
   <data name="Label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>40, 43</value>
+    <value>38, 37</value>
   </data>
   <data name="Label3.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -4227,7 +4227,7 @@
     <value>True</value>
   </data>
   <data name="Label2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Arial Unicode MS, 24pt, style=Bold</value>
+    <value>Microsoft Sans Serif, 24pt, style=Bold</value>
   </data>
   <data name="Label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -4236,7 +4236,7 @@
     <value>7, 116</value>
   </data>
   <data name="Label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>41, 43</value>
+    <value>40, 37</value>
   </data>
   <data name="Label2.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -4296,7 +4296,7 @@
     <value>True</value>
   </data>
   <data name="Label1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Arial Unicode MS, 24pt, style=Bold</value>
+    <value>Microsoft Sans Serif, 24pt, style=Bold</value>
   </data>
   <data name="Label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -4305,7 +4305,7 @@
     <value>7, 29</value>
   </data>
   <data name="Label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>41, 43</value>
+    <value>39, 37</value>
   </data>
   <data name="Label1.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -4398,13 +4398,13 @@
     <value>13</value>
   </data>
   <data name="tpWork.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpWork.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpWork.Size" type="System.Drawing.Size, System.Drawing">
-    <value>380, 352</value>
+    <value>380, 349</value>
   </data>
   <data name="tpWork.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -5613,13 +5613,13 @@
     <value>44</value>
   </data>
   <data name="tpOffsets.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tpOffsets.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tpOffsets.Size" type="System.Drawing.Size, System.Drawing">
-    <value>380, 352</value>
+    <value>380, 349</value>
   </data>
   <data name="tpOffsets.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -5691,13 +5691,13 @@
     <value>8</value>
   </data>
   <data name="tabPgInterface.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tabPgInterface.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabPgInterface.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1134, 677</value>
+    <value>1134, 674</value>
   </data>
   <data name="tabPgInterface.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -5715,6 +5715,33 @@
     <value>TabControl1</value>
   </data>
   <data name="&gt;&gt;tabPgInterface.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="SettingsImportProgressBar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="SettingsImportProgressBar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>10, 612</value>
+  </data>
+  <data name="SettingsImportProgressBar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>346, 15</value>
+  </data>
+  <data name="SettingsImportProgressBar.TabIndex" type="System.Int32, mscorlib">
+    <value>116</value>
+  </data>
+  <data name="SettingsImportProgressBar.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;SettingsImportProgressBar.Name" xml:space="preserve">
+    <value>SettingsImportProgressBar</value>
+  </data>
+  <data name="&gt;&gt;SettingsImportProgressBar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SettingsImportProgressBar.Parent" xml:space="preserve">
+    <value>tabPgSettings</value>
+  </data>
+  <data name="&gt;&gt;SettingsImportProgressBar.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <data name="Label49.AutoSize" type="System.Boolean, mscorlib">
@@ -5847,7 +5874,7 @@
     <value>tabPgSettings</value>
   </data>
   <data name="&gt;&gt;gbMiscInfo.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>1</value>
   </data>
   <data name="Label4.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -5879,6 +5906,33 @@
   <data name="&gt;&gt;Label4.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="btnImportGrblSettings.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnImportGrblSettings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>157, 546</value>
+  </data>
+  <data name="btnImportGrblSettings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>48, 41</value>
+  </data>
+  <data name="btnImportGrblSettings.TabIndex" type="System.Int32, mscorlib">
+    <value>115</value>
+  </data>
+  <data name="btnImportGrblSettings.Text" xml:space="preserve">
+    <value>Import</value>
+  </data>
+  <data name="&gt;&gt;btnImportGrblSettings.Name" xml:space="preserve">
+    <value>btnImportGrblSettings</value>
+  </data>
+  <data name="&gt;&gt;btnImportGrblSettings.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnImportGrblSettings.Parent" xml:space="preserve">
+    <value>gbGrblSettings</value>
+  </data>
+  <data name="&gt;&gt;btnImportGrblSettings.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
   <data name="tbSettingsGrblLastParam.Location" type="System.Drawing.Point, System.Drawing">
     <value>6, 552</value>
   </data>
@@ -5901,7 +5955,34 @@
     <value>gbGrblSettings</value>
   </data>
   <data name="&gt;&gt;tbSettingsGrblLastParam.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
+  </data>
+  <data name="btnExportGrblSettings.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnExportGrblSettings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>211, 546</value>
+  </data>
+  <data name="btnExportGrblSettings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>48, 41</value>
+  </data>
+  <data name="btnExportGrblSettings.TabIndex" type="System.Int32, mscorlib">
+    <value>114</value>
+  </data>
+  <data name="btnExportGrblSettings.Text" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="&gt;&gt;btnExportGrblSettings.Name" xml:space="preserve">
+    <value>btnExportGrblSettings</value>
+  </data>
+  <data name="&gt;&gt;btnExportGrblSettings.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnExportGrblSettings.Parent" xml:space="preserve">
+    <value>gbGrblSettings</value>
+  </data>
+  <data name="&gt;&gt;btnExportGrblSettings.ZOrder" xml:space="preserve">
+    <value>3</value>
   </data>
   <data name="dgGrblSettings.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 13</value>
@@ -5929,13 +6010,13 @@
     <value>gbGrblSettings</value>
   </data>
   <data name="&gt;&gt;dgGrblSettings.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>4</value>
   </data>
   <data name="btnSettingsGrbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="btnSettingsGrbl.Location" type="System.Drawing.Point, System.Drawing">
-    <value>265, 549</value>
+    <value>265, 546</value>
   </data>
   <data name="btnSettingsGrbl.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 41</value>
@@ -5956,7 +6037,7 @@
     <value>gbGrblSettings</value>
   </data>
   <data name="&gt;&gt;btnSettingsGrbl.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>5</value>
   </data>
   <data name="gbGrblSettings.Location" type="System.Drawing.Point, System.Drawing">
     <value>10, 19</value>
@@ -5980,7 +6061,7 @@
     <value>tabPgSettings</value>
   </data>
   <data name="&gt;&gt;gbGrblSettings.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>2</value>
   </data>
   <data name="btnOffsetsG28Set.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 8.25pt, style=Bold</value>
@@ -6373,7 +6454,7 @@
     <value>tabPgSettings</value>
   </data>
   <data name="&gt;&gt;gbSettingsOffsets.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
   </data>
   <data name="Label42.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6406,7 +6487,7 @@
     <value>tabPgSettings</value>
   </data>
   <data name="&gt;&gt;Label42.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>4</value>
   </data>
   <data name="Label52.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -6886,7 +6967,7 @@
     <value>tabPgSettings</value>
   </data>
   <data name="&gt;&gt;gbSettingsMisc.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>5</value>
   </data>
   <data name="Label8.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -7246,7 +7327,7 @@
     <value>tabPgSettings</value>
   </data>
   <data name="&gt;&gt;gbSettingsPosition.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>6</value>
   </data>
   <data name="cbSettingsKeyboardJogging.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -7816,16 +7897,16 @@
     <value>tabPgSettings</value>
   </data>
   <data name="&gt;&gt;gbSettingsJogging.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>7</value>
   </data>
   <data name="tabPgSettings.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="tabPgSettings.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 3, 3, 3</value>
   </data>
   <data name="tabPgSettings.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1134, 677</value>
+    <value>1134, 674</value>
   </data>
   <data name="tabPgSettings.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -8146,10 +8227,10 @@
     <value>5</value>
   </data>
   <data name="TabPage1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 22</value>
+    <value>4, 25</value>
   </data>
   <data name="TabPage1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1134, 677</value>
+    <value>1134, 674</value>
   </data>
   <data name="TabPage1.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -10873,11 +10954,8 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAADAAwAA4AcAAA==
 </value>
   </data>
-  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
   <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>1159, 766</value>
+    <value>1159, 726</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Grbl Panel</value>
